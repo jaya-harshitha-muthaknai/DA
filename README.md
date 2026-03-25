@@ -1,9 +1,4 @@
-Got you — here’s your **clean, GitHub-ready README** with proper spacing, no clutter, and strong readability.
-👉 Just copy-paste this directly — it will render perfectly.
-
----
-
-# 🚀 Crowdfunding Platform Funnel & Data Integrity Analysis
+# Crowdfunding Platform Funnel & Data Integrity Analysis
 
 ## Project Overview
 
